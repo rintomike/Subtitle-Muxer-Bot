@@ -8,27 +8,27 @@
         "muxing"
     ],
     "repository": "https://github.com/NaysaBots/subtitle-muxer-bot",
-    "website": "https://t.me/shinchan13hindi",
-    "success_url": "https://t.me/shinchan13hindi",
+    "website": "https://t.me/",
+    "success_url": "https://t.me/",
     "env": {
         "BOT_TOKEN": {
-            "description": "5808862713:AAG0AiaHoqk0G4YHONmm5DYyc_g5nA-JJ_s",
+            "description": "",
             "required": "True"
         },
         "API_HASH": {
-            "description": "d68e9444838c8bb8077a8dd570e31beb",
+            "description": "",
             "required": "True"
         },
         "APP_ID": {
-            "description": "20391930",
+            "description": "",
             "required": "True"
         },
         "OWNER_ID": {
-            "description": "1983139507",
+            "description": "",
             "required": "True"
        },
        "DATABASE_URL": {
-            "description": "mongodb+srv://rintovk284:whoisrinto@cluster0.kodmjt8.mongodb.net/?retryWrites=true&w=majority",
+            "description": "",
             "value": ""
        },
        "SESSION_NAME": {
@@ -36,11 +36,11 @@
             "value": "TELLYBOTS"
        },
         "UPDATES_CHANNEL": {
-            "description": "https://t.me/shinchan13hindi",
+            "description": "https://t.me/",
             "required": "True"
        },
         "LOG_CHANNEL": {
-            "description": "https://t.me/subtitlehardcorderlog",
+            "description": "https://t.me/",
             "required": "False"
         }
     },
